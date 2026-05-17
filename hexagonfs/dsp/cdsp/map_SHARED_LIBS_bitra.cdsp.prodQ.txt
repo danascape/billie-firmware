@@ -1,0 +1,14 @@
+../../build/ms/dynamic_modules/bitra.cdsp.prod/libsysmon_skel.so
+../../build/ms/dynamic_modules/bitra.cdsp.prod/libsysmondomain_skel.so
+../../build/ms/dynamic_modules/bitra.cdsp.prod/libstabilitydomain_skel.so
+../../build/ms/dynamic_modules/bitra.cdsp.prod/libsysmonquery_skel.so
+../../build/ms/dynamic_modules/bitra.cdsp.prod/libbenchmark_skel.so
+../../build/ms/dynamic_modules/bitra.cdsp.prod/libsysmonhvxthrottle_skel.so
+../../build/ms/dynamic_modules/bitra.cdsp.prod/ubwcdma_dynlib.so
+../../build/ms/dynamic_modules/bitra.cdsp.prod/libhta_dsp_skel.so
+../../build/ms/dynamic_modules/bitra.cdsp.prod/example_image.so
+../../build/ms/dynamic_modules/bitra.cdsp.prod/libloadalgo_skel.so
+../../build/ms/dynamic_modules/bitra.cdsp.prod/fastrpc_shell_3
+../../build/ms/dynamic_modules/bitra.cdsp.prod/fastrpc_shell_unsigned_3
+../../build/ms/dynamic_modules/bitra.cdsp.prod/libc++.so.1
+../../build/ms/dynamic_modules/bitra.cdsp.prod/libc++abi.so.1

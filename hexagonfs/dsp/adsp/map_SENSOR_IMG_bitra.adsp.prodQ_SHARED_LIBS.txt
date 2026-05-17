@@ -1,0 +1,1 @@
+../../build/ms/dynamic_modules/bitra.adsp.prod/sns_bring_to_ear.so

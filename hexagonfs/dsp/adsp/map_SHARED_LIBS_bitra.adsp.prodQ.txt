@@ -1,0 +1,5 @@
+../../build/ms/dynamic_modules/bitra.adsp.prod/libsysmon_skel.so
+../../build/ms/dynamic_modules/bitra.adsp.prod/libsysmondomain_skel.so
+../../build/ms/dynamic_modules/bitra.adsp.prod/libstabilitydomain_skel.so
+../../build/ms/dynamic_modules/bitra.adsp.prod/libsysmonquery_skel.so
+../../build/ms/dynamic_modules/bitra.adsp.prod/fastrpc_shell_0
